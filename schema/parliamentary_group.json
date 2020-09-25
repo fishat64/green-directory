@@ -21,19 +21,19 @@
     },
     "state": {
       "type": "string",
-      "description": "Federal state or province the regional chapter is active in."
+      "description": "Federal state or province the parliamentary group is active in."
     },
     "district": {
       "type": "string",
-      "description": "District the regional chapter is active in."
+      "description": "District the parliamentary group is active in."
     },
     "city": {
       "type": "string",
-      "description": "City a regional chapter is active in."
+      "description": "City a parliamentary group is active in."
     },
     "region": {
       "type": "string",
-      "description": "Region a regional chapter is active in (where neither district, state nor federal fit)."
+      "description": "Region a parliamentary group is active in (where neither district, state nor federal fit)."
     },
     "urls": {
       "type": "array",
