@@ -182,3 +182,14 @@ urls:
     url: https://de.wikipedia.org/wiki/Gr%C3%BCne_Alte
 emails:
   - address: kontakt@gruenealte.de
+---
+type: WORKING_GROUP
+name: Bundesarbeitsgemeinschaft Medien- und Netzpolitik
+level: DE:BUNDESVERBAND
+country: DE
+urls:
+  - type: WEBSITE
+    url: https://bag-gruene-medienundnetz.de/
+emails:
+  - address: marion.gehrke@gruene-niedersachsen.de
+  - address: info@richard-ralfs.de
